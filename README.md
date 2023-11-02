@@ -19,13 +19,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joysmith&" alt="joysmith" /></p>
 
 
-    <div class="audio">
-      <audio controls class="audiocontrol">
-        <source src="horse.ogg" type="audio/ogg" />
-        <source
-          src="https://dwn.pagolworld.in/siteuploads/files/sfd17/8353/Hall%20of%20Fame(Mr-Jatt1.com).mp3"
-          type="audio/mpeg"
-        />
-        Your browser does not support the audio tag.
-      </audio>
-    </div>
