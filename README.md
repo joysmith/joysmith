@@ -1,8 +1,5 @@
 [<h1 align="center">Hi 👋, I'm Joy Smith Peter</h1>
-<h3 align="center">Physical AI & Robotics Researcher
----------------------------------
-
-🚀 Building Intelligent Autonomous Systems with Physical AI, Robotics, Sim2Real Learning, Deep Learning, Computer Vision, Agentic AI, RAG Architectures, Multi-Robot Coordination, ROS 2, Synthetic Data, and Edge AI for Real-World Applications</h3>
+<h3 align="center">🚀 Building Intelligent Autonomous Systems with Physical AI, Robotics, Sim2Real Learning, Deep Learning, Computer Vision, Agentic AI, RAG Architectures, Multi-Robot Coordination, ROS 2, Synthetic Data, and Edge AI for Real-World Applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joysmith&label=Profile%20views&color=0e75b6&style=flat" alt="joysmith" /> </p>
 
